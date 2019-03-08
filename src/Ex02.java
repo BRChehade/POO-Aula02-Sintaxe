@@ -18,8 +18,8 @@ public class Ex02 {
     }else { 
     	if (n1 == n2){
     		System.out.println("Ambos tem o mesmo valor" );
-    }else {
-    	System.out.println("O segundo valor e menor: " +n2);
+	    }else {
+	    	System.out.println("O segundo valor e menor: " +n2);
     }
 	}
 	}
